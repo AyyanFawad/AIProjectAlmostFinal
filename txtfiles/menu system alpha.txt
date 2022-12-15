@@ -1,0 +1,13 @@
+--main menu
+music player
+options
+
+--music player
+play
+pause
+next
+prev
+back
+
+--options
+soemthing

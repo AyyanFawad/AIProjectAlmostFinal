@@ -1,0 +1,9 @@
+# # Music Player Box
+# selectionlist = pygame_gui.elements.UISelectionList(
+#     relative_rect=pygame.rect((400, 400), (200, 200)), item_list=["0", "1", "2", "3", "4", "5"], manager=MANAGER, allow_double_clicks=False, object_id="#musicselectionlist")
+
+
+# MANAGER.process_events(event)
+
+# MANAGER.update(UIREFRESHRATE)
+# MANAGER.draw_ui(WIN)
